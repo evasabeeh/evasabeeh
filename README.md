@@ -1,12 +1,13 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://evasabeeh.io)
 
-<h1 align="center">Hey, I'm Eva</h1>
-<h3 align="center">An enthusiastic Coder, Front-End Developer & UI Designer</h3>
+<h1 align="center">Hey, I'm Eva!</h1>
+<h3 align="center"><em>Problem-Solving | Front-End Development | UI/UX Designing</em></h3>
+<br>
 <img align="right" alt="Code & Chill" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*cfmRtbFOaB8q1Icn8EBsjw.png">
 <br>
 
 
-- 👨‍💻 You can reach out at my portfolio [https://evasabeeh.netlify.app/](https://evasabeeh.netlify.app/)
+- 👨‍💻 You can reach out at my portfolio [https://evasabeeh.github.io/](https://evasabeeh.github.io/)
 
 - 📫 How to reach me **evasabeeh@gmail.com**
 
