@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **evasabeeh@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1a-OOlLCQ0RQU_b_76L1uBmimLLIn7ygC/view](https://drive.google.com/file/d/1a-OOlLCQ0RQU_b_76L1uBmimLLIn7ygC/view)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/1SbdJCZbbg5MoViV9IzK3R2LUpFqk1b_q/view?usp=drive_link)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
