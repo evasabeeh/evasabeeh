@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can reach out at my portfolio [https://evasabeeh.github.io/](https://evasabeeh.github.io/)
 
-- 📫 How to reach me **evasabeeh@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/eva-sabeeh/**
 
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1JVtW64bSKl9M4qLOpdnE12qmk07ogrGe/view?usp=sharing)
 <br>
