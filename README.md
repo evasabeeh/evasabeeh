@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/eva-sabeeh/**
 
-- 📄 Know about me [Resume](https://drive.google.com/file/d/1UCdEwU7VIklrghdKHFAD69-aIfKKCnyD/view?usp=sharing)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/1zQx1VgxZq3_oeDIvaoqMayYfrYs1AfhL/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
