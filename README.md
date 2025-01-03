@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://evasabeeh.io)
 
 <h1 align="center">Hey, I'm Eva!</h1>
-<h3 align="center"><em>Front-End Development | UI/UX Designing | Android Development | Problem-Solving</em></h3>
+<h3 align="center"><em>Web Development | Android Development | Problem-Solving</em></h3>
 <br>
 <img align="right" alt="Code & Chill" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*cfmRtbFOaB8q1Icn8EBsjw.png">
 <br>
