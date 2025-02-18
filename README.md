@@ -48,6 +48,7 @@
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> 
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="node" width="50" height="50"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="mongo" width="50" height="50"/>
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50"/>
 <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="next" width="60" height="60"/>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FedQkFg%2Fbtq66jMy5hK%2FUK280mtnLW2LX4kDKtrGr0%2Fimg.png" alt="gsap" width="60" height="60"/>
