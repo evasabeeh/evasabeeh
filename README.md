@@ -5,13 +5,14 @@
 </div>
 
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1500&pause=500&color=00C9A7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Web+Development+%7C+Problem-Solving+%7C+Android+UI+Development" alt="Web Development | Problem-Solving | Android UI Development" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1500&pause=1500&color=00C9A7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=I+write+code...+and+sometimes+it+even+works!+%F0%9F%98%81" alt="I write code... and sometimes it even works!😁" />
 </div>
 
 <br>
 
 <pre>
 <div style="padding: 10px; border-radius: 20px; background-color: #f9f9f9; display: inline-block;">
+    <b>I'm into Web Development, Android UI Development and Problem Solving.</b><br>
     <b>Know about me:        <a href="https://evasabeeh.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
     <b>Check Out My Resume:  <a href="https://drive.google.com/file/d/1bl4uwfV8MdEZQ8FeSAEiLNzOOcW1i6xC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a></b>
     <b>Let's connect:        <a href="https://www.linkedin.com/in/eva-sabeeh/" target="_blank" rel="noopener noreferrer">LinkedIn</a></b> 
