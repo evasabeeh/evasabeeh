@@ -19,6 +19,7 @@
 <a href="https://www.hackerrank.com/evasabeeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="evasabeeh" height="70" width="70" /></a>
 <a href="https://www.leetcode.com/evasabeeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="evasabeeh" height="70" width="70" /></a>
 <a href="https://www.geeksforgeeks.org/user/evas190401/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="evasabeeh" height="70" width="70" /></a>
+<a href="https://codeforces.com/profile/eva_sabeeh" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="evasabeeh" height="70" width="70" /></a>
 </p>
 <br>
 <h3 align="left">Skills, Tools & Platforms:</h3>
