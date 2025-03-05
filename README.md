@@ -22,7 +22,7 @@
 <a href="https://codeforces.com/profile/eva_sabeeh" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="evasabeeh" height="70" width="70" /></a>
 </p>
 <br>
-<h3 align="left">Skills, Tools & Platforms:</h3>
+<h3 align="left">Skills & Tools</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/>
@@ -31,13 +31,22 @@
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" width="80" height="80"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="react" width="80" height="80"/>
+<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="80" height="80"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
+</p>
+<br>
+<h3 align="left">Platforms</h3>
+<p align="left">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="github" width="80" height="80"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" width="80" height="80"/> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="java" width="80" height="80"/> 
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="80" height="80"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="80" height="80"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" width="80" height="80"/> 
+<img src="https://cdn.brandfetch.io/idBNXhKpAC/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1737134111218" alt="vercel" width="80" height="80"/> 
+<img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" alt="render" width="80" height="80"/> 
 </p>
 <br>
 
@@ -47,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> 
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="node" width="50" height="50"/> 
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="node" width="50" height="50"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="mongo" width="50" height="50"/>
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50"/>
@@ -62,4 +71,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evasabeeh&show_icons=true&locale=en" alt="evasabeeh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evasabeeh&" alt="evasabeeh" /></p>
