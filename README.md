@@ -1,4 +1,6 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://evasabeeh.io)
+![Animated Banner](https://github.com/user-attachments/assets/f1b140a6-c1bc-4171-a05a-b33bb7fd8549)
+
+<br> 
 
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1500&pause=500&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=50&lines=Hey%2C+I'm++Eva!" alt="Hey, I'm Eva!" />
@@ -12,7 +14,7 @@
 
 <pre>
 <div style="padding: 10px; border-radius: 20px; background-color: #f9f9f9; display: inline-block;">
-    <b>I'm into Web Development, Android UI Development and Problem Solving.</b><br>
+    <b>I'm into Web Development, Problem Solving and Android UI Development.</b><br>
     <b>Know about me:        <a href="https://evasabeeh.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
     <b>Check Out My Resume:  <a href="https://drive.google.com/file/d/1bl4uwfV8MdEZQ8FeSAEiLNzOOcW1i6xC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a></b>
     <b>Let's connect:        <a href="https://www.linkedin.com/in/eva-sabeeh/" target="_blank" rel="noopener noreferrer">LinkedIn</a></b> 
@@ -98,19 +100,6 @@
     </a> 
 </p>
 
-<!--p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=evasabeeh&theme=dracula" alt="evasabeeh" />
-    </a> 
-</p-->
-
-<!--p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=evasabeeh&theme=flat" alt="evasabeeh" />
-    </a> 
-</p-->
-
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evasabeeh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="evasabeeh" width="31%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=evasabeeh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="evasabeeh" width="48%"/>
@@ -122,4 +111,3 @@
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=700&size=18&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=210&height=20&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
 </div>
-
