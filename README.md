@@ -91,9 +91,7 @@
 </p>
 <br>
 
-<hr>
-
-<!--img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"-->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -102,16 +100,14 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evasabeeh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="evasabeeh" width="31%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=evasabeeh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="evasabeeh" width="48%"/>
 </p>
 
 <br>
 <br>
 
+<!--img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"-->
+
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=700&size=18&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=210&height=20&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
 </div>
-
-<!--img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"-->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
