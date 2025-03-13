@@ -113,4 +113,5 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=700&size=18&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=210&height=20&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
 </div>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<!--img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"-->
+![](./profile-3d-contrib/profile-green-animate.svg)
