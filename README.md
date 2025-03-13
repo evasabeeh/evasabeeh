@@ -90,10 +90,12 @@
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FedQkFg%2Fbtq66jMy5hK%2FUK280mtnLW2LX4kDKtrGr0%2Fimg.png" alt="gsap" width="60" height="60"/>
 </p>
 <br>
-<br>
-<br>
-<br>
 
+<hr>
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<!--
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=evasabeeh&theme=algolia" alt="evasabeeh" />
@@ -111,3 +113,4 @@
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=700&size=18&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=210&height=20&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
 </div>
+-->
