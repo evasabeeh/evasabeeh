@@ -93,19 +93,6 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=evasabeeh&theme=algolia" alt="evasabeeh" />
-    </a> 
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=evasabeeh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="evasabeeh" width="48%"/>
-</p>
-
-<br>
-<br>
-
 <!--img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"-->
 
 <div align="center">
