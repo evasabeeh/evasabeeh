@@ -71,6 +71,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/255px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" alt="windows" width="80" height="80"/> 
 <img src="https://cdn.brandfetch.io/idBNXhKpAC/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1737134111218" alt="vercel" width="80" height="80"/> 
 <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" alt="render" width="80" height="80"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="80" height="80"/> 
 </p>
 <br>
 <br>
