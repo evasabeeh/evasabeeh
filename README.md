@@ -89,6 +89,7 @@
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50"/>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FedQkFg%2Fbtq66jMy5hK%2FUK280mtnLW2LX4kDKtrGr0%2Fimg.png" alt="gsap" width="60" height="60"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/TeX.png" alt="latex" width="50" height="50"/> 
 </p>
 <br>
 
