@@ -47,6 +47,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/>
 <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="80" height="80"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="80" height="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="react" width="80" height="80"/>
 <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="80" height="80"/> 
 <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="next" width="80" height="80"/>
@@ -70,9 +71,11 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="mongo" width="80" height="80"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="80" height="80"/> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" width="80" height="80"/>
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/full/prismaHD.png" alt="prisma" width="80" height="80"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/255px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" alt="windows" width="80" height="80"/> 
 <img src="https://cdn.brandfetch.io/idBNXhKpAC/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1737134111218" alt="vercel" width="80" height="80"/> 
 <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" alt="render" width="80" height="80"/> 
+<img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" alt="firebase" width="80" height="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="80" height="80"/> 
 </p>
 <br>
@@ -88,7 +91,6 @@
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> 
 <img src="https://img.icons8.com/fluent/512/node-js.png" alt="node" width="50" height="50"/>
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50"/>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FedQkFg%2Fbtq66jMy5hK%2FUK280mtnLW2LX4kDKtrGr0%2Fimg.png" alt="gsap" width="60" height="60"/>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/TeX.png" alt="latex" width="50" height="50"/> 
 </p>
