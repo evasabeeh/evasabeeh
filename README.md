@@ -41,19 +41,19 @@
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/>
-<img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="80" height="80"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="80" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="react" width="80" height="80"/>
-<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="80" height="80"/> 
-<img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="next" width="80" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
+<img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="70" height="70"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="react" width="70" height="70"/>
+<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="70" height="70"/> 
+<img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="next" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="70" height="70"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="70" height="70"/>
 </p>
 <br>
 <br>
@@ -62,21 +62,23 @@
 </div>
 
 <p align="center">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="github" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" width="80" height="80"/> 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="java" width="80" height="80"/> 
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="80" height="80"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png?20080116191800" alt="postgresql" width="80" height="80"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="mongo" width="80" height="80"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="80" height="80"/> 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" width="80" height="80"/>
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/full/prismaHD.png" alt="prisma" width="80" height="80"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="github" width="70" height="70"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="70"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" width="70" height="70"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="java" width="70" height="70"/> 
+<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="70" height="70"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png?20080116191800" alt="postgresql" width="70" height="70"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="mongo" width="70" height="70"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="70" height="70"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" width="70" height="70"/>
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/full/prismaHD.png" alt="prisma" width="70" height="70"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/255px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" alt="windows" width="80" height="80"/> 
 <img src="https://cdn.brandfetch.io/idBNXhKpAC/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1737134111218" alt="vercel" width="80" height="80"/> 
 <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" alt="render" width="80" height="80"/> 
 <img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" alt="firebase" width="80" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="80" height="80"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="80" height="80"/>
+<img src="https://img.icons8.com/color/512/supabase.png" alt="supabase" width="80" height="80"/>
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DATAg1AAZAA0" alt="cloudinary" width="80" height="80"/> 
 </p>
 <br>
 <br>
