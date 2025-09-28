@@ -94,7 +94,8 @@
 <img src="https://img.icons8.com/fluent/512/node-js.png" alt="node" width="50" height="50"/>
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="50" height="50"/> 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FedQkFg%2Fbtq66jMy5hK%2FUK280mtnLW2LX4kDKtrGr0%2Fimg.png" alt="gsap" width="60" height="60"/>
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/TeX.png" alt="latex" width="50" height="50"/> 
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/TeX.png" alt="latex" width="50" height="50"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="50" height="50"/> 
 </p>
 <br>
 
