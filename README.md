@@ -48,12 +48,12 @@
 <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="70" height="70"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="70" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="react" width="70" height="70"/>
+<img src="https://img.icons8.com/?size=96&id=123603&format=png" alt="react" width="70" height="70"/>
 <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="70" height="70"/> 
 <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="next" width="70" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="70" height="70"/>
+<img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" alt="bootstrap" width="70" height="70"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="70" height="70"/>
+<img src="https://img.icons8.com/?size=128&id=qsQZWvMuX4ad&format=png" alt="sass" width="70" height="70"/>
 <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" alt="strapi" width="70" height="70"/>
 </p>
 <br>
@@ -68,12 +68,11 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" width="70" height="70"/> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="java" width="70" height="70"/> 
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="70" height="70"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png?20080116191800" alt="postgresql" width="70" height="70"/> 
+<img src="https://img.icons8.com/?size=96&id=38561&format=png" alt="postgresql" width="70" height="70"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="mongo" width="70" height="70"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="70" height="70"/> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" width="70" height="70"/>
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/full/prismaHD.png" alt="prisma" width="70" height="70"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/255px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" alt="windows" width="80" height="80"/> 
 <img src="https://cdn.brandfetch.io/idBNXhKpAC/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1737134111218" alt="vercel" width="80" height="80"/> 
 <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" alt="render" width="80" height="80"/> 
 <img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" alt="firebase" width="80" height="80"/>
