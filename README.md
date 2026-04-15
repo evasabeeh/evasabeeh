@@ -40,22 +40,7 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=1&color=00C9A7&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Skills%2C+Tools+and+Frameworks" alt="Skills, Tools and Frameworks" />
 </div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-<img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="70" height="70"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="70" height="70"/>
-<img src="https://img.icons8.com/?size=96&id=123603&format=png" alt="react" width="70" height="70"/>
-<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="70" height="70"/> 
-<img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="next" width="70" height="70"/>
-<img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" alt="bootstrap" width="70" height="70"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/>
-<img src="https://img.icons8.com/?size=128&id=qsQZWvMuX4ad&format=png" alt="sass" width="70" height="70"/>
-<img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" alt="strapi" width="70" height="70"/>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/><img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="70" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="70" height="70"/><img src="https://img.icons8.com/?size=96&id=123603&format=png" alt="react" width="70" height="70"/><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="70" height="70"/><img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="next" width="70" height="70"/><img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" alt="bootstrap" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/><img src="https://img.icons8.com/?size=128&id=qsQZWvMuX4ad&format=png" alt="sass" width="70" height="70"/><img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" alt="strapi" width="70" height="70"/></p>
 <br>
 <br>
 <div align="center">
